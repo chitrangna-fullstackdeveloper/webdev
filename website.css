@@ -37,6 +37,7 @@ nav{
 }
 .container{
 			width:100vw;
+			height: 100vh;
 			
 			display:flex;
 			justify-content:center;
@@ -80,6 +81,8 @@ h2{
 }
 
 footer{
+
+	
 		background-color:#04010d;
 		color:white;
 		display:flex;
