@@ -55,6 +55,7 @@ nav{
 			align-items:center;
 			gap:20px;
 			background-color:whitesmoke;
+			flex-wrap:wrap;
 			
 		
 }
