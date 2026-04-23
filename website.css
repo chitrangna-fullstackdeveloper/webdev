@@ -47,6 +47,7 @@ nav{
 }
 .divs{
 			width:100vw;
+			height:100vh
 			padding:2%;
 			display:flex;
 			justify-content:center;
